@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BD
 {
-    public class DataAcces
-    { }
+    publiecclass DataAccess
+    {
     }
 }
